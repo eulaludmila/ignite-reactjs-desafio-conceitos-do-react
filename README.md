@@ -1,6 +1,6 @@
 # Desafio 01 - Ignite ReactJS
 
-Essa é uma aplicação onde o seu principal objetivo é uma pequena aplicação de atividades a fazer, para treinar um pouco mais sobre manipulação do estado no React.
+Essa é uma aplicação onde o seu principal objetivo é uma pequena aplicação de atividades a fazer, no qual coloco em prática sobre manipulação do estado no React.
 
 https://user-images.githubusercontent.com/47863213/127723408-fab6111a-2506-4869-af9d-d5eef8751764.mp4
 
