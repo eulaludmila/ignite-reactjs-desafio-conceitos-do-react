@@ -4,6 +4,10 @@ Essa é uma aplicação onde o seu principal objetivo é uma pequena aplicação
 
 https://user-images.githubusercontent.com/47863213/127723408-fab6111a-2506-4869-af9d-d5eef8751764.mp4
 
+## Explicação do Desafio
+
+https://www.notion.so/Desafio-01-Conceitos-do-React-51e4099a6e2f4d4bae94f9fe75bb769d
+
 ## Tecnologias 🚀
 
 - ReactJs
